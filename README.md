@@ -25,5 +25,3 @@ Key Work Done :
 Output :
   SQL queries
   Power BI dashboard
-SQL queries
-Power BI dashboard
